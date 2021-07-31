@@ -1,3 +1,4 @@
 Test
 Test branch 2
 Test change file
+Test Stash
